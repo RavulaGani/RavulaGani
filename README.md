@@ -56,9 +56,9 @@ I specialize in creating robust, scalable, and user-centric applications using m
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavulaGani&theme=radical" alt="GitHub Streak Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavulaGani&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavulaGani&layout=compact&theme=radical" alt="Top Languages" height="150">
 </div>
 
 ---
