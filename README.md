@@ -85,11 +85,11 @@ I specialize in creating robust, scalable, and user-centric applications using m
 ## 🌐 Connect with Me  
 
 <div>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" width="40"></a>
+  <a href="https://www.linkedin.com/in/ravulaganesh"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" width="40"></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/color/48/twitter.png" title="Twitter" width="40"></a>
-  <a href="https://www.instagram.com/your-profile"><img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram" width="40"></a>
+  <a href="https://www.instagram.com/ravula_18"><img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram" width="40"></a>
   <a href="https://yourportfolio.com"><img src="https://img.icons8.com/ios-filled/50/portfolio.png" title="Portfolio" width="40"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/gmail.png" title="Email" width="40"></a>
+  <a href="mailto:ganeshravula099@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" title="Email" width="40"></a>
 </div>
 
 ---
