@@ -67,7 +67,7 @@ I specialize in creating robust, scalable, and user-centric applications using m
 
 | Project Name             | Description                                                                                             | Technologies                         |  
 |--------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------|  
-| **[E-commerce Platform](https://github.com/YourUsername/EcommercePlatform)** | A full-stack e-commerce platform with dynamic product management and secure payments.            | Java, Spring Boot, Hibernate, React |  
+| **[E-commerce Platform](https://github.com/RavulaGani/42111554-final-project)** | A full-stack e-commerce platform with dynamic product management and secure payments.            | Java, Spring Boot, Hibernate, React |  
 | **[Portfolio Website](https://ravulagani.github.io/Portfolio/)**   | A modern, responsive portfolio website showcasing my skills and projects.                        | HTML, CSS, JavaScript, React        |  
 | **[Real-Time Chat App](https://github.com/YourUsername/RealTimeChatApp)**   | A dynamic chat application with real-time messaging and group chat functionality.                 | Node.js, Express, Socket.io         |  
 
