@@ -2,14 +2,12 @@
 
 ![Header](https://user-images.githubusercontent.com/0000000/placeholder.gif)  
 ## 👋 About Me  
-
 Hi there! I’m **RAVULA GANESH**, a **Computer Science & Engineering Student** and a passionate **Web Developer**.  
 I specialize in creating robust, scalable, and user-centric applications using modern tools and technologies.  
 
 - 🔭 **Current Focus:** Full-Stack Web Development, REST APIs, and Microservices.  
 - 🌱 **Learning:** Cloud technologies like AWS and advanced Java frameworks.  
 - 🤝 **Looking for Opportunities:** Open-source contributions, internships, and collaborative projects.  
-
 
 ## 🛠️ Technical Skills  
 
