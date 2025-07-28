@@ -68,8 +68,8 @@ I specialize in creating robust, scalable, and user-centric applications using m
 | Project Name             | Description                                                                                             | Technologies                         |  
 |--------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------|  
 | **[E-commerce Platform](https://github.com/RavulaGani/42111554-final-project)** | A full-stack e-commerce platform with dynamic product management and secure payments.            | Java, Spring Boot, Hibernate, React |  
-| **[Portfolio Website](https://ravulagani.github.io/Portfolio/)**   | A modern, responsive portfolio website showcasing my skills and projects.                        | HTML, CSS, JavaScript, React        |  
-| **[Real-Time Chat App](https://github.com/YourUsername/RealTimeChatApp)**   | A dynamic chat application with real-time messaging and group chat functionality.                 | Node.js, Express, Socket.io         |  
+| **[Portfolio Website](https://ravulagani.github.io/Portfolio)**   | A modern, responsive portfolio website showcasing my skills and projects.                        | HTML, CSS, JavaScript, React        |  
+| **[Real-Time Chat App](https://github.com/RavulaGani/RG-Connect-Real-time-chat-application)**   | A dynamic chat application with real-time messaging and group chat functionality.                 | Node.js, Express, Socket.io         |  
 
 ---
 
@@ -88,7 +88,7 @@ I specialize in creating robust, scalable, and user-centric applications using m
   <a href="https://www.linkedin.com/in/ravulaganesh"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" width="40"></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/color/48/twitter.png" title="Twitter" width="40"></a>
   <a href="https://www.instagram.com/ravula_18"><img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram" width="40"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.icons8.com/ios-filled/50/portfolio.png" title="Portfolio" width="40"></a>
+  <a href="https://ravulagani.github.io/Portfolio"><img src="https://img.icons8.com/ios-filled/50/portfolio.png" title="Portfolio" width="40"></a>
   <a href="mailto:ganeshravula099@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" title="Email" width="40"></a>
 </div>
 
